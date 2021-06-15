@@ -1,0 +1,69 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "name": "Fast & Furious 9",
+      "description": "test",
+      "imagePath": "../../../assets/images/movie-poster-After.jpg",
+      "star":67,
+      "type":"Series",
+      "year": "2010",
+      "season": 6,
+      "episodeNumber": 1,
+      "actors": ["Allen"],
+      "tags": ["ACTION","HORROR"]
+    },
+    {
+      "id": "2",
+      "name": "Birdman",
+      "description": "test",
+      "imagePath": "../../../assets/images/movie-poster-birdman.jpg",
+      "star":67,
+      "type":"Series",
+      "year": "2010",
+      "season": 6,
+      "episodeNumber": 1,
+      "actors": ["Allen"],
+      "tags": ["ACTION","HORROR"]
+    },
+    {
+      "id": "3",
+      "name": "The Souvenir",
+      "description": "test",
+      "imagePath": "../../../assets/images/movie-poster-souvenir.jpg",
+      "star":67,
+      "type":"Series",
+      "year": "2010",
+      "season": 6,
+      "episodeNumber": 1,
+      "actors": ["Allen"],
+      "tags": ["ACTION","HORROR"]
+    },
+    {
+      "id": "4",
+      "name": "LORE",
+      "description": "test",
+      "imagePath": "../../../assets/images/movie-poster-lore.jpg",
+      "star":67,
+      "type":"Series",
+      "year": "2010",
+      "season": 6,
+      "episodeNumber": 1,
+      "actors": ["Allen"],
+      "tags": ["ACTION","HORROR"]
+    },
+    {
+      "id": "5",
+      "name": "Dinner for Schmucks",
+      "description": "test",
+      "imagePath": "../../../assets/images/movie-poster-dinner.jpg",
+      "star":67,
+      "type":"Series",
+      "year": "2010",
+      "season": 6,
+      "episodeNumber": 1,
+      "actors": ["Allen"],
+      "tags": ["ACTION","HORROR"]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "envfakebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx json-server --watch -p 3333 db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinzhih/EnvFakebackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinzhih/EnvFakebackend/issues"
+  },
+  "homepage": "https://github.com/jinzhih/EnvFakebackend#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
