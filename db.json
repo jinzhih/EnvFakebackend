@@ -65,5 +65,25 @@
       "actors": ["Allen"],
       "tags": ["ACTION","HORROR"]
     }
+  ],
+  "users":[
+    {
+      "uid":"1",
+      "username":"John",
+      "email":"hello@gmail.com",
+      "password":"john123"
+    },
+    {
+      "uid":"2",
+      "username":"Frank",
+      "email":"frank@gmail.com",
+      "password":"abc"
+    },
+    {
+      "uid":"3",
+      "username":"Bob",
+      "email":"bob@gmail.com",
+      "password":"bob123"
+    }
   ]
 }
