@@ -1,89 +1,40 @@
 {
-  "videos": [
+  "bookings": [
     {
-      "id": "1",
-      "name": "Fast & Furious 9",
-      "description": "test",
-      "imagePath": "../../../assets/images/movie-poster-After.jpg",
-      "star":67,
-      "type":"Series",
-      "year": "2010",
-      "season": 6,
-      "episodeNumber": 1,
-      "actors": ["Allen"],
-      "tags": ["ACTION","HORROR"]
+      "bookingId": "1",
+      "productId": "1",
+      "userId ": "1",
+      "bookingNum": "T001",
+      "bookingDate": "06062001",
+      "BusinesID":1,
+      "bookingTime":0,
+      "status": "pending",
+      "updateNumber": 0
     },
     {
-      "id": "2",
-      "name": "Birdman",
-      "description": "test",
-      "imagePath": "../../../assets/images/movie-poster-birdman.jpg",
-      "star":67,
-      "type":"Series",
-      "year": "2010",
-      "season": 6,
-      "episodeNumber": 1,
-      "actors": ["Allen"],
-      "tags": ["ACTION","HORROR"]
-    },
-    {
-      "id": "3",
-      "name": "The Souvenir",
-      "description": "test",
-      "imagePath": "../../../assets/images/movie-poster-souvenir.jpg",
-      "star":67,
-      "type":"Series",
-      "year": "2010",
-      "season": 6,
-      "episodeNumber": 1,
-      "actors": ["Allen"],
-      "tags": ["ACTION","HORROR"]
-    },
-    {
-      "id": "4",
-      "name": "LORE",
-      "description": "test",
-      "imagePath": "../../../assets/images/movie-poster-lore.jpg",
-      "star":67,
-      "type":"Series",
-      "year": "2010",
-      "season": 6,
-      "episodeNumber": 1,
-      "actors": ["Allen"],
-      "tags": ["ACTION","HORROR"]
-    },
-    {
-      "id": "5",
-      "name": "Dinner for Schmucks",
-      "description": "test",
-      "imagePath": "../../../assets/images/movie-poster-dinner.jpg",
-      "star":67,
-      "type":"Series",
-      "year": "2010",
-      "season": 6,
-      "episodeNumber": 1,
-      "actors": ["Allen"],
-      "tags": ["ACTION","HORROR"]
+      "bookingId": "2",
+      "productId": "1",
+      "userId ": "1",
+      "bookingNum": "T002",
+      "bookingDate": "07062001",
+      "BusinesID":1,
+      "bookingTime":0,
+      "status": "pending",
+      "updateNumber": 0
     }
   ],
   "users":[
     {
-      "uid":"1",
-      "username":"John",
+      "id":1,
+      "firstName ":"John",
+      "lastName  ":"Smith",
       "email":"hello@gmail.com",
-      "password":"john123"
-    },
-    {
-      "uid":"2",
-      "username":"Frank",
-      "email":"frank@gmail.com",
-      "password":"abc"
-    },
-    {
-      "uid":"3",
-      "username":"Bob",
-      "email":"bob@gmail.com",
-      "password":"bob123"
+      "password":"john123",
+      "DOB":"19900712",
+      "userType":"client",
+      "phone":"0328271972",
+      "gender":"female",
+      "bookingId":["1","2"]
     }
   ]
 }
