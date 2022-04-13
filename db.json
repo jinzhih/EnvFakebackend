@@ -1,40 +1,80 @@
 {
-  "bookings": [
-    {
-      "bookingId": "1",
-      "productId": "1",
-      "userId ": "1",
-      "bookingNum": "T001",
-      "bookingDate": "06062001",
-      "BusinesID":1,
-      "bookingTime":0,
-      "status": "pending",
-      "updateNumber": 0
-    },
-    {
-      "bookingId": "2",
-      "productId": "1",
-      "userId ": "1",
-      "bookingNum": "T002",
-      "bookingDate": "07062001",
-      "BusinesID":1,
-      "bookingTime":0,
-      "status": "pending",
-      "updateNumber": 0
-    }
-  ],
-  "users":[
-    {
-      "id":1,
-      "firstName ":"John",
-      "lastName  ":"Smith",
-      "email":"hello@gmail.com",
-      "password":"john123",
-      "DOB":"19900712",
-      "userType":"client",
-      "phone":"0328271972",
-      "gender":"female",
-      "bookingId":["1","2"]
-    }
-  ]
+	"company": {
+		"business_name": "James' Food Distribution",
+		"logo_url": "https://1plan.ifour-consultancy.net/qassets/img/1plan-newlogo.jpg",
+		"business_type": "Information Technology",
+		"address": "26 Hawthorn Dr, Kingston TAS 7051",
+		"country": "AU",
+		"state": "TAS",
+		"city": "hobart",
+		"zip_code": "7005"
+	},
+	"plans": [
+		{
+			"plan_id": 1,
+			"plan_name": "my 1 plan",
+			"version": 1,
+			"data": [
+				{
+					"section": "quick_start",
+					"data": [
+						{
+							"question_number": 1,
+							"question": "Enter your Quarterly Priorities in the table below",
+							"answers": [
+								"Find a sales representative for Queensland",
+								"Find a sales representative for Queensland",
+								"Find a sales representative for Queensland",
+								"Find a sales representative for Queensland",
+								"Find a sales representative for Queensland",
+								"Find a sales representative for Queensland"
+							]
+						},
+						{
+							"question_number": 2,
+							"question": "Making sure we have the right people in the right seats on the bus.",
+							"answers": [
+								{
+									"departments": "Sales&Marketing",
+									"rank": "70",
+									"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+								},
+								{
+									"departments": "Sales&Marketing",
+									"rank": "70",
+									"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+								},
+								{
+									"departments": "Sales&Marketing",
+									"rank": "70",
+									"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+								},
+								{
+									"departments": "Sales&Marketing",
+									"rank": "70",
+									"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+								},
+								{
+									"departments": "Sales&Marketing",
+									"rank": "70",
+									"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+								},
+								{
+									"departments": "Sales&Marketing",
+									"rank": "70",
+									"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+								},
+								{
+									"departments": "Sales&Marketing",
+									"rank": "70",
+									"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{}
+	]
 }
