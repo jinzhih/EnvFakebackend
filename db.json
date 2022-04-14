@@ -17,57 +17,384 @@
 			"data": [
 				{
 					"section": "quick_start",
+					"section_information_": "1 Plan is designed to be simple. Don't overthink the questions, answer them the best you can and move forward. If you don't know the answer, don't worry, you can always come back to it.",
 					"data": [
 						{
-							"question_number": 1,
-							"question": "Enter your Quarterly Priorities in the table below",
-							"answers": [
-								"Find a sales representative for Queensland",
-								"Find a sales representative for Queensland",
-								"Find a sales representative for Queensland",
-								"Find a sales representative for Queensland",
-								"Find a sales representative for Queensland",
-								"Find a sales representative for Queensland"
+							"part_number": 1,
+							"part_name": "GAP ANALYSIS - SETTING QUARTERLY PRIORITIES",
+							"part_introduction": "In this section, we are looking at where you are today and where you want to be in 90 days’ time, so we can fill the gap. As part of this process, we need to identify the people, resources, and processes you need to engage/employ to achieve your 90-day goals and get you to where you want to be.",
+							"part_content": [
+								{
+									"question_number": 1,
+									"question": "Enter your Quarterly Priorities in the table below",
+									"question_addition": "",
+									"answers": [
+										{
+											"priority_1": "Find a sales representative for Queensland"
+										},
+										{
+											"priority_2": "Find a sales representative for Queensland"
+										},
+										{
+											"priority_3": "Find a sales representative for Queensland"
+										},
+										{
+											"priority_4": "Find a sales representative for Queensland"
+										},
+										{
+											"priority_5": "Find a sales representative for Queensland"
+										},
+										{
+											"priority_6": "Find a sales representative for Queensland"
+										}
+									]
+								}
 							]
 						},
 						{
-							"question_number": 2,
-							"question": "Making sure we have the right people in the right seats on the bus.",
-							"answers": [
+							"part_number": 2,
+							"part_name": "ACTIONS AND RESOURCES REQUIRED TOBRIDGE THE GAP",
+							"part_introduction": "",
+							"part_content": [
 								{
-									"departments": "Sales&Marketing",
-									"rank": "70",
-									"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+									"question_number": 2,
+									"question": "Making sure we have the right people in the right seats on the bus.",
+									"question_addition": "",
+									"answers": [
+										{
+											"departments": "Sales&Marketing",
+											"rank": "70",
+											"mark": ["%"],
+											"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+										},
+										{
+											"departments": "Sales&Marketing",
+											"rank": "70",
+											"mark": ["%"],
+											"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+										},
+										{
+											"departments": "Sales&Marketing",
+											"rank": "70",
+											"mark": ["%"],
+											"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+										},
+										{
+											"departments": "Sales&Marketing",
+											"rank": "70",
+											"mark": ["%"],
+											"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+										},
+										{
+											"departments": "Sales&Marketing",
+											"rank": "70",
+											"mark": ["%"],
+											"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+										}
+									]
 								},
 								{
-									"departments": "Sales&Marketing",
-									"rank": "70",
-									"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+									"question_number": 3,
+									"question": "What are you committing to do to achieve the quarterly priorities?",
+									"question_addition": "",
+									"answers": [
+										{
+											"my_quarterly_actions": "Enquire about potential reps",
+											"who_is_going_to_do_it": "James",
+											"when_do_you_want_it_done_by": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"my_quarterly_actions": "Enquire about potential reps",
+											"who_is_going_to_do_it": "James",
+											"when_do_you_want_it_done_by": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"my_quarterly_actions": "Enquire about potential reps",
+											"who_is_going_to_do_it": "James",
+											"when_do_you_want_it_done_by": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"my_quarterly_actions": "Enquire about potential reps",
+											"who_is_going_to_do_it": "James",
+											"when_do_you_want_it_done_by": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"my_quarterly_actions": "Enquire about potential reps",
+											"who_is_going_to_do_it": "James",
+											"when_do_you_want_it_done_by": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										}
+									]
 								},
 								{
-									"departments": "Sales&Marketing",
-									"rank": "70",
-									"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+									"question_number": 4,
+									"question": "What are you delegating to you consultants, advisors or staff to achieve the Quarterly Priorities?",
+									"question_addition": "",
+									"answers": [
+										{
+											"quarterly_actions": "Place job ads on Seek/Indeed",
+											"who_are_you_going_to_get_to_do_it": "HR/Office Assistant",
+											"when_do_you_want_it_done_by": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"quarterly_actions": "Place job ads on Seek/Indeed",
+											"who_are_you_going_to_get_to_do_it": "HR/Office Assistant",
+											"when_do_you_want_it_done_by": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"quarterly_actions": "Place job ads on Seek/Indeed",
+											"who_are_you_going_to_get_to_do_it": "HR/Office Assistant",
+											"when_do_you_want_it_done_by": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"quarterly_actions": "Place job ads on Seek/Indeed",
+											"who_are_you_going_to_get_to_do_it": "HR/Office Assistant",
+											"when_do_you_want_it_done_by": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"quarterly_actions": "Place job ads on Seek/Indeed",
+											"who_are_you_going_to_get_to_do_it": "HR/Office Assistant",
+											"when_do_you_want_it_done_by": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										}
+									]
 								},
 								{
-									"departments": "Sales&Marketing",
-									"rank": "70",
-									"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+									"question_number": 5,
+									"question": "Who do you need to help you?",
+									"question_addition": "You may know who you are going to use or you may need to research to find someone e.g. an EA, Accountant, Solicitor, Web Designer, etc.",
+									"answers": [
+										{
+											"people_I_need": "Queensland rep",
+											"mark": ["$", "￥"],
+											"wages_or_fees_next_90_days": "1000",
+											"when_will_they_come_on_board": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"people_I_need": "Queensland rep",
+											"mark": ["$", "￥"],
+											"wages_or_fees_next_90_days": "1000",
+											"when_will_they_come_on_board": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"people_I_need": "Queensland rep",
+											"mark": ["$", "￥"],
+											"wages_or_fees_next_90_days": "1000",
+											"when_will_they_come_on_board": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"people_I_need": "Queensland rep",
+											"mark": ["$", "￥"],
+											"wages_or_fees_next_90_days": "1000",
+											"when_will_they_come_on_board": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"people_I_need": "Queensland rep",
+											"mark": ["$", "￥"],
+											"wages_or_fees_next_90_days": "1000",
+											"when_will_they_come_on_board": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										}
+									]
 								},
 								{
-									"departments": "Sales&Marketing",
-									"rank": "70",
-									"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+									"question_number": 6,
+									"question": "What resources do you need to help you?",
+									"question_addition": "Think about the impact of additional people - will they require a desk, phone, computer or are you outsourcing? What else do you need?",
+									"answers": [
+										{
+											"resources_I_need": "New van",
+											"mark": ["$", "￥"],
+											"investment_required_next_90_days": "7000",
+											"when_will_it_be_available": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"resources_I_need": "New van",
+											"mark": ["$", "￥"],
+											"investment_required_next_90_days": "7000",
+											"when_will_it_be_available": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"resources_I_need": "New van",
+											"mark": ["$", "￥"],
+											"investment_required_next_90_days": "7000",
+											"when_will_it_be_available": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"resources_I_need": "New van",
+											"mark": ["$", "￥"],
+											"investment_required_next_90_days": "7000",
+											"when_will_it_be_available": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"resources_I_need": "New van",
+											"mark": ["$", "￥"],
+											"investment_required_next_90_days": "7000",
+											"when_will_it_be_available": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										}
+									]
 								},
 								{
-									"departments": "Sales&Marketing",
-									"rank": "70",
-									"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+									"question_number": 7,
+									"question": "What processes do you need to achieve your Quarterly Priorities?",
+									"question_addition": "To achieve your goals, do you need software, apps, or subscriptions? For example, you may need to upgrade Xero and setup payroll to cater for payroll processing? Or you may need to choose a shopping cart for your website that integrates with your accounting package?",
+									"answers": [
+										{
+											"process_I_need": "Advertise for new Sales rep position",
+											"mark": ["$", "￥"],
+											"investment_required_next_90_days": "500",
+											"when_will_it_be_available": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"process_I_need": "Advertise for new Sales rep position",
+											"mark": ["$", "￥"],
+											"investment_required_next_90_days": "500",
+											"when_will_it_be_available": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"process_I_need": "Advertise for new Sales rep position",
+											"mark": ["$", "￥"],
+											"investment_required_next_90_days": "500",
+											"when_will_it_be_available": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"process_I_need": "Advertise for new Sales rep position",
+											"mark": ["$", "￥"],
+											"investment_required_next_90_days": "500",
+											"when_will_it_be_available": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										},
+										{
+											"process_I_need": "Advertise for new Sales rep position",
+											"mark": ["$", "￥"],
+											"investment_required_next_90_days": "500",
+											"when_will_it_be_available": [
+												{ "days": "11" },
+												{ "months": "03" },
+												{ "years": "2022" }
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"part_number": 3,
+							"part_name": "QUARTERLY THEME",
+							"part_introduction": "In this section, we are looking to make sure we have the right people in the right seats on the bus. As part of this process, we are looking to see how happy you are with the performance of each department and identify any changes you might need to make to improve their performance. The objective here is to come up with improvement ideas to get you to the point where you are 100% satisfied.",
+							"part_content": [
+								{
+									"Diarising Quad B Time.": "The final step in this process is to block out Quad B time in your diary. Pick 2 hours on a set day of the week to action the items in your plan. No phone calls, no emails, no notification alerts, no drop-ins, no distractions. Turn off the phone, lock yourself away for 2 hours and concentrate on the issue at hand.Grab your diary now and set up a recurring appointment that works for you."
 								},
 								{
-									"departments": "Sales&Marketing",
-									"rank": "70",
-									"important_ideas": "Expand market into Southen Highlands with a delicated rep"
+									"question_number": 8,
+									"question": "Enter your Quarter end date?",
+									"question_addition": "",
+									"answers": "Please input the quarter end date."
+								},
+								{
+									"question_number": 9,
+									"question": "Indentify your Measurable Target or Critical Number for the Quarter?",
+									"question_addition": "",
+									"answers": "Enter your standout measure of success here."
+								},
+								{
+									"question_number": 10,
+									"question": "Theme Name- What is the one word or the one phrase that best describes your goals for the quarter?",
+									"question_addition": "",
+									"answers": "Consolidation"
 								}
 							]
 						}
